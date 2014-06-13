@@ -1,0 +1,47 @@
+<!Doctype html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script language="javascript" type="text/javascript" src="script.js"></script>
+		<div id="header">
+			<h1>Brent Walsh</h1>
+		</div>
+
+		<div id="nav">
+     <ul>
+         <li><a href="#SUMMARY">SUMMARY</a></li>
+         <li><a href="#EXPERIENCE">EXPERIENCE</a></li>
+         <li><a href="#NOTABLE PROJECTS">NOTABLE PROJECTS</a></li>
+         <li><a href="#SKILLS">SKILLS</a></li>
+         <li><a href="#EDUCATION">EDUCATION</a></li>
+         <li><a href="#GET IN TOUCH">GET IN TOUCH</a></li>
+     </ul>
+     <div id="page1">
+  <a id="SUMMARY"></a>
+    About page content goes here.
+</div>
+
+<div id="page2">
+  <a id="EXPERIENCE"></a>
+    Portfolio page content goes here.
+</div>
+
+<div id="page3">
+  <a id="NOTABLE PROJECTS"></a>
+    Contact page content goes here.
+
+<div id="page4">
+  <a id="SKILLS"></a>
+    Contact page content goes here.
+
+    <div id="page5">
+  <a id="EDUCATION"></a>
+    Contact page content goes here.
+
+    <div id="page6">
+  <a id="GET IN TOUCH"></a>
+    Contact page content goes here.
+</div>
+</div>
+</html>
